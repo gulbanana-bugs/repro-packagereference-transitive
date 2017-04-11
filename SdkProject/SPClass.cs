@@ -1,8 +1,8 @@
 ﻿using FrameworkProject;
 
-namespace SdkProject2
+namespace SdkProject
 {
-    public class SP2Class
+    public class SPClass
     {
         public FPClass x;
         public Newtonsoft.Json.JsonConverter Converter => x.Converter;
