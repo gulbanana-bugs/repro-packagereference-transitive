@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using SdkProject1;
 
 namespace FrameworkProject
 {
-    public class Class1
+    public class FPClass
     {
+        public SP1Class x;
     }
 }

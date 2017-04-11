@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace SdkProject1
+﻿namespace SdkProject1
 {
-    public class Class1
+    public class SP1Class
     {
     }
 }
