@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NetstandardLibrary1
+namespace SdkProject1
 {
     public class Class1
     {
